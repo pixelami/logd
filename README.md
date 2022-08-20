@@ -1,7 +1,7 @@
 # logd
 Log javascript console to http server
 
-## Run the 
+## Run the logd server
 
 Clone the repo
 
@@ -15,7 +15,7 @@ You should see the following message in the console
 
 Note the `<IP_ADDRESS>`, you will need it in the next step.
 
-## Configure the Web Page for console capture
+## Configure the Web Page for console capture to the logd server
 
 Add the following to `<head>` of HTML page you want to capture logs from
 
